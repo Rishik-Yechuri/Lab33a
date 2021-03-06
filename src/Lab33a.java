@@ -69,8 +69,6 @@ class GfxApp extends Frame {
         node2.drawPointer(g, 'T', 2, 9);
         node3.drawPointer(g, 'T', 2, 0);
         GfxNode.delay(td);
-
-
     }
 
 
